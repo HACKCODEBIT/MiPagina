@@ -106,7 +106,7 @@ navLinks.querySelectorAll('a').forEach(link => {
 (function typedEffect() {
   const el = document.getElementById('typed');
   const phrases = [
-    'Full Stack Developer',
+    'Desarrollador de software',
     'Solucionador de problemas',
     'Amante del código limpio',
     'Open Source Contributor',
